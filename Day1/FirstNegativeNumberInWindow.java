@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Deque;
 import java.util.LinkedList;
 
-class Solution {
+class FirstNegativeNumberInWindow {
     static List<Integer> firstNegIntBF(int arr[], int k) {
         // write code here
         // Brute force
